@@ -1,0 +1,4 @@
+pandas
+streamlit
+opcua
+scikit-learn
